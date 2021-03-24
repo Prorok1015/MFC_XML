@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <Item type = "text"> text </Item>
+     <item type="cdata">
+        
+     </item>
+     <item type="sub">
+      <Subitem> subnode </Subitem>
+     </item>
+</root>
